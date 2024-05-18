@@ -1,0 +1,3 @@
+﻿  demo.cpp
+C:\Projects\LeetCode\LeetCodeDaily\demo\demo.cpp(12,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  demo.vcxproj -> C:\Projects\LeetCode\LeetCodeDaily\x64\Debug\demo.exe
