@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{34793A5B-9946-446F-82FE-FC15302DC226}|demo\\demo.vcxproj|C:\\Projects\\LeetCode\\LeetCodeDaily\\demo\\demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{34793A5B-9946-446F-82FE-FC15302DC226}|demo\\demo.vcxproj|solutionrelative:demo\\demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B13A87F2-A2BC-414C-8E9D-F78889FA1C65}|addTwoNumbers\\addTwoNumbers.vcxproj|C:\\Projects\\LeetCode\\LeetCodeDaily\\addTwoNumbers\\addTwoNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B13A87F2-A2BC-414C-8E9D-F78889FA1C65}|addTwoNumbers\\addTwoNumbers.vcxproj|solutionrelative:addTwoNumbers\\addTwoNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,22 +24,9 @@
               "RelativeDocumentMoniker": "demo\\demo.cpp",
               "ToolTip": "C:\\Projects\\LeetCode\\LeetCodeDaily\\demo\\demo.cpp",
               "RelativeToolTip": "demo\\demo.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-18T09:31:52.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "addTwoNumbers.cpp",
-              "DocumentMoniker": "C:\\Projects\\LeetCode\\LeetCodeDaily\\addTwoNumbers\\addTwoNumbers.cpp",
-              "RelativeDocumentMoniker": "addTwoNumbers\\addTwoNumbers.cpp",
-              "ToolTip": "C:\\Projects\\LeetCode\\LeetCodeDaily\\addTwoNumbers\\addTwoNumbers.cpp",
-              "RelativeToolTip": "addTwoNumbers\\addTwoNumbers.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-18T08:21:07.048Z",
               "EditorCaption": ""
             }
           ]
